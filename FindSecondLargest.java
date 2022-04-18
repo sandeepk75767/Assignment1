@@ -1,3 +1,4 @@
+/* Sandeep Kaur*/
 import java.util.Arrays;
 
 public class FindSecondLargest {
