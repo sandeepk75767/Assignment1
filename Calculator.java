@@ -1,3 +1,4 @@
+/* Sandeep Kaur*/
 package week1.day1;
 import java.util.Scanner;
 public class Calculator {
