@@ -1,3 +1,4 @@
+//*Sandeep*//
 package week1.day1;
 
 		public class Armstrong {
@@ -22,6 +23,6 @@ package week1.day1;
 		    }
 		
 
-	}
+		}
 
 
